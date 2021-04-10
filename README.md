@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kevin, nice to meet you!
 
-I'm a software engineer focused mainly in JavaScript technologies. To know more about my skill take a look in **skillset** below.
+I'm a software engineer focused mainly in JavaScript and front end technologies. To know more about my skills and interests take a look in **skillset** below.
 
 ### 🧰 Skillset
 
