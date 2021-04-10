@@ -11,7 +11,7 @@ I'm a software engineer focused mainly in JavaScript technologies. To know more 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
 
 ### :books: Technologies I'm interested in or currently learning
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="90" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="90" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="90" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80" height="50"/>
 
 <!--
 **kevinvai10/kevinvai10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
