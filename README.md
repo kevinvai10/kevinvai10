@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Kevin, nice to meet you!
 
 I'm a software engineer focused mainly in JavaScript and front end technologies. To know more about my skills and interests take a look in **skillset** below.
+For more details: https://kevinvai10.github.io/react-portfolio/
 
 ### 🧰 Skillset
 
